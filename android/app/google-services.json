@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088871201974",
+    "project_id": "note-hub-e60c8",
+    "storage_bucket": "note-hub-e60c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088871201974:android:d953c9b1f19efda47dba17",
+        "android_client_info": {
+          "package_name": "com.am.note_hub.note_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvZV9Z1GPNEQlpN4ZwQuDxS0PwNmWJp5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
