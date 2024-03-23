@@ -67,43 +67,43 @@ flutter run
 ```
 ## Project structure
 
-note_hub/
-┣ android/&nbsp;&nbsp;&nbsp;&nbsp; `contains android native codes and configurations`
-┣assets/
-┃ ┣ animations/&nbsp;&nbsp;&nbsp;&nbsp;`contains lottie json files and gif files`
-┃ ┗ images/
-┣ios/&nbsp;&nbsp;&nbsp;&nbsp;`contains ios native codes and configurations`
-┣ lib/
-┃ ┣ app/
-┃ ┃ ┗ main_app.dart&nbsp;&nbsp;&nbsp;&nbsp;`contains application main class which contains the material app `
-┃┣ bloc/&nbsp;&nbsp;&nbsp;&nbsp;`contains all bloc folders and observers`
-┃ ┃ ┣ bloc folders
-┃ ┃ ┣ bloc_observer.dart
-┃ ┃ ┗ note_modification_state.dart
-┃ ┣ config/&nbsp;&nbsp;&nbsp;&nbsp;`contains shared preferences keys & constants & themes`
-┃ ┃ ┣ constants/
-┃ ┃ ┣ routes_manger/
-┃ ┃ ┗ themes/
-┃ ┣ data/&nbsp;&nbsp;&nbsp;&nbsp;`data access layer resposible for dealing with firebase`
-┃ ┃ ┣ data_sources/
-┃ ┃ ┣ models/
-┃ ┃ ┗ repositories/
-┃ ┣ presentation/&nbsp;&nbsp;&nbsp;&nbsp;`view layer`
-┃ ┃ ┣ screens/
-┃ ┃ ┗ widgets/
-┃ ┣ utils/
-┃ ┃ ┣ cache_helper.dart
-┃ ┃ ┣ image_picker.dart
-┃ ┃ ┣ media_query_extension.dart
-┃ ┃ ┣ note_shimmer_effect.dart
-┃ ┃ ┣ pdf_handler.dart
-┃ ┃ ┣ shared_assets.dart
-┃ ┃ ┣ shared_colors.dart
-┃ ┃ ┗ shared_methods.dart
-┃ ┣ firebase_options.dart
-┃ ┗ main.dart
-┣test/
-┗pubspec.yaml
+note_hub/<br>
+┣ android/&nbsp;&nbsp;&nbsp;&nbsp; `contains android native codes and configurations`<br>
+┣assets/<br>
+┃ ┣ animations/&nbsp;&nbsp;&nbsp;&nbsp;`contains lottie json files and gif files`<br>
+┃ ┗ images/<br>
+┣ios/&nbsp;&nbsp;&nbsp;&nbsp;`contains ios native codes and configurations`<br>
+┣ lib/<br>
+┃ ┣ app/<br>
+┃ ┃ ┗ main_app.dart&nbsp;&nbsp;&nbsp;&nbsp;`contains application main class which contains the material app `<br>
+┃┣ bloc/&nbsp;&nbsp;&nbsp;&nbsp;`contains all bloc folders and observers`<br>
+┃ ┃ ┣ bloc folders<br>
+┃ ┃ ┣ bloc_observer.dart<br>
+┃ ┃ ┗ note_modification_state.dart<br>
+┃ ┣ config/&nbsp;&nbsp;&nbsp;&nbsp;`contains shared preferences keys & constants & themes`<br>
+┃ ┃ ┣ constants/<br>
+┃ ┃ ┣ routes_manger/<br>
+┃ ┃ ┗ themes/<br>
+┃ ┣ data/&nbsp;&nbsp;&nbsp;&nbsp;`data access layer resposible for dealing with firebase`<br>
+┃ ┃ ┣ data_sources/<br>
+┃ ┃ ┣ models/<br>
+┃ ┃ ┗ repositories/<br>
+┃ ┣ presentation/&nbsp;&nbsp;&nbsp;&nbsp;`view layer`<br>
+┃ ┃ ┣ screens/<br>
+┃ ┃ ┗ widgets/<br>
+┃ ┣ utils/<br>
+┃ ┃ ┣ cache_helper.dart<br>
+┃ ┃ ┣ image_picker.dart<br>
+┃ ┃ ┣ media_query_extension.dart<br>
+┃ ┃ ┣ note_shimmer_effect.dart<br>
+┃ ┃ ┣ pdf_handler.dart<br>
+┃ ┃ ┣ shared_assets.dart<br>
+┃ ┃ ┣ shared_colors.dart<br>
+┃ ┃ ┗ shared_methods.dart<br>
+┃ ┣ firebase_options.dart<br>
+┃ ┗ main.dart<br>
+┣test/<br>
+┗pubspec.yaml<br>
 
 
 ## Screeshots
