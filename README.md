@@ -4,8 +4,9 @@
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/apdo60311)
 
 ## Features
 
@@ -59,7 +60,7 @@ code .
 ```sh
 flutter pub get
 ```
-**4. Link the project with firbase*&nbsp;&nbsp;&nbsp;&nbsp; 
+**4. Link the project with firbase**
 
 **5. Run project**
 ```sh
@@ -121,4 +122,4 @@ note_hub/<br>
 </p>
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](https://opensource.org/license/MIT) License.
