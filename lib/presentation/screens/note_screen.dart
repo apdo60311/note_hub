@@ -208,7 +208,7 @@ class _NoteScreenState extends State<NoteScreen>
     return Container(
       padding: EdgeInsets.zero,
       height: 50,
-      // color: Colors.blueGrey.shade50,
+      color: Theme.of(context).colorScheme.background,
       child: Row(
         children: [
           IconButton(
